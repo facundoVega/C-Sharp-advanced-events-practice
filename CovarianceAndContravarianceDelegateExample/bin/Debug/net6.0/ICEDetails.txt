@@ -1,0 +1,4 @@
+Object Type: MyApp.ICECar
+Car Details: 1 - Audi R8 - Internal Combustion Engine
+Object Type: CovarianceAndContravarianceDelegateExample.CovarianceAndContravariance.CovarianceAndContravariance+ICECar
+Car Details: 1 - Audi R8 - Internal Combustion Engine

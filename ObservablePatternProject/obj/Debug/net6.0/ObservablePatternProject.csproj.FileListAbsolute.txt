@@ -1,0 +1,15 @@
+C:\Users\facundo.vega\source\repos\CovarianceAndContravarianceDelegateExample\ObservablePatternProject\bin\Debug\net6.0\ObservablePatternProject.exe
+C:\Users\facundo.vega\source\repos\CovarianceAndContravarianceDelegateExample\ObservablePatternProject\bin\Debug\net6.0\ObservablePatternProject.deps.json
+C:\Users\facundo.vega\source\repos\CovarianceAndContravarianceDelegateExample\ObservablePatternProject\bin\Debug\net6.0\ObservablePatternProject.runtimeconfig.json
+C:\Users\facundo.vega\source\repos\CovarianceAndContravarianceDelegateExample\ObservablePatternProject\bin\Debug\net6.0\ObservablePatternProject.dll
+C:\Users\facundo.vega\source\repos\CovarianceAndContravarianceDelegateExample\ObservablePatternProject\bin\Debug\net6.0\ObservablePatternProject.pdb
+C:\Users\facundo.vega\source\repos\CovarianceAndContravarianceDelegateExample\ObservablePatternProject\obj\Debug\net6.0\ObservablePatternProject.csproj.AssemblyReference.cache
+C:\Users\facundo.vega\source\repos\CovarianceAndContravarianceDelegateExample\ObservablePatternProject\obj\Debug\net6.0\ObservablePatternProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facundo.vega\source\repos\CovarianceAndContravarianceDelegateExample\ObservablePatternProject\obj\Debug\net6.0\ObservablePatternProject.AssemblyInfoInputs.cache
+C:\Users\facundo.vega\source\repos\CovarianceAndContravarianceDelegateExample\ObservablePatternProject\obj\Debug\net6.0\ObservablePatternProject.AssemblyInfo.cs
+C:\Users\facundo.vega\source\repos\CovarianceAndContravarianceDelegateExample\ObservablePatternProject\obj\Debug\net6.0\ObservablePatternProject.csproj.CoreCompileInputs.cache
+C:\Users\facundo.vega\source\repos\CovarianceAndContravarianceDelegateExample\ObservablePatternProject\obj\Debug\net6.0\ObservablePatternProject.dll
+C:\Users\facundo.vega\source\repos\CovarianceAndContravarianceDelegateExample\ObservablePatternProject\obj\Debug\net6.0\refint\ObservablePatternProject.dll
+C:\Users\facundo.vega\source\repos\CovarianceAndContravarianceDelegateExample\ObservablePatternProject\obj\Debug\net6.0\ObservablePatternProject.pdb
+C:\Users\facundo.vega\source\repos\CovarianceAndContravarianceDelegateExample\ObservablePatternProject\obj\Debug\net6.0\ObservablePatternProject.genruntimeconfig.cache
+C:\Users\facundo.vega\source\repos\CovarianceAndContravarianceDelegateExample\ObservablePatternProject\obj\Debug\net6.0\ref\ObservablePatternProject.dll
